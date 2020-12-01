@@ -1,0 +1,1 @@
+["Coffa Coffee Truck, \u00c7ankaya (Birlik Mah.)", "", "Servis\n-", "Lezzet\n-", ["So\u011fuk Kahveler\nIce Americano\n14,00 TL\nIce Latte\nSo\u011fuk s\u00fct\n16,00 TL\nCold Brew\n18,00 TL", "Po\u015fet\nPo\u015fet\n0,25 TL"], [""]]

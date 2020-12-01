@@ -1,0 +1,611 @@
+﻿,city,location,restaurant_name,res_speed,res_service,res_flavour
+0,ankara,keçiören,şakayık dürüm,9.2,9.1,9.1
+1,ankara,çankaya,the italian cut pizza,9.3,9.2,9.2
+2,ankara,etimesgut,osmanoğulları pide & kebap,9.4,9.3,9.1
+3,ankara,çankaya,komagene etsiz çiğ köfte,9.3,9.1,9.2
+4,ankara,çankaya,jimmy the burger,9.2,9.3,9.2
+5,ankara,batıkent,bakermill burgershop,9.6,9.3,9.2
+6,ankara,kocatepe,cafe kıraç,9.1,9.1,9.1
+7,ankara,eryaman evleri,çorba 7/24 & izgara,9.4,9.4,9.2
+8,ankara,çankaya,atom ayvalık & kumru,9.4,9.3,9.1
+9,ankara,yenimahalle,komagene etsiz çiğ köfte,9.1,9.1,9.1
+10,ankara,yenimahalle,space burger,9.5,9.5,9.3
+11,ankara,yenimahalle,baykuş fast food,9.7,9.5,9.4
+12,ankara,mamak,badempınarı su,9.6,9.7,9.5
+13,ankara,emek,meşhur gülçimen aspava,9.3,9.1,9.1
+14,ankara,100. yıl,javsu,9.9,9.9,9.9
+15,ankara,çankaya,antep şiş,9.5,9.3,9.2
+16,ankara,çankaya,kumpirevi,9.2,9.3,9.2
+17,ankara,emek,buzdağı su,9.4,9.7,9.8
+18,ankara,tunalı,bay baget sandwich,9.7,9.5,9.4
+19,ankara,etimesgut,antep ateşi pide & lahmacun & kebap,9.4,9.3,9.2
+20,ankara,balgat,meşhur adıyaman çiğ köftecisi ahmet aybak,9.6,9.4,9.1
+21,ankara,pursaklar,meşhur adıyaman çiğ köftecisi bayram usta,9.7,9.8,9.7
+22,ankara,yenimahalle,bosporus pizza & burger,9.7,9.7,9.9
+23,ankara,tunalı,red et,9.2,9.3,9.2
+24,ankara,yenimahalle,cajun corner,9.3,9.2,9.3
+25,ankara,keçiören,komagene etsiz çiğ köfte,9.3,9.3,9.1
+26,ankara,sincan,bi çorba ev yemekleri,9.4,9.3,9.2
+27,ankara,sincan,javsu,9.5,9.6,9.8
+28,ankara,altındağ,komagene etsiz çiğ köfte,9.6,9.5,9.3
+29,ankara,çankaya,çiğköfteci ömer usta,9.4,9.4,9.3
+30,ankara,çankaya,sweetish waffles & crepes,9.6,9.5,9.3
+31,ankara,emek,casa della pizza & burger,9.2,9.4,9.2
+32,ankara,çankaya,white point cajun,9.2,9.3,9.1
+33,ankara,çankaya,fuska su,9.3,9.7,9.7
+34,ankara,maltepe,komagene etsiz çiğ köfte,9.4,9.3,9.2
+35,ankara,etimesgut,capello pizza,9.4,9.3,9.4
+36,ankara,ümitköy,berilya pide & kebap,9.5,9.4,9.1
+37,ankara,keçiören,dolunay simit & pasta & cafe,9.6,9.4,9.4
+38,ankara,keçiören,merdane gözleme & mantı,9.2,9.3,9.2
+39,ankara,keçiören,hayat su,9.2,9.6,9.6
+40,ankara,çankaya,meşhur yılmaz burmalı kadayıf & künefe,9.2,9.1,9.1
+41,ankara,çankaya,somunarası,9.3,9.7,9.5
+42,ankara,çankaya,maşa döner & pide & kebap,9.5,9.5,9.1
+43,ankara,öveçler,komagene etsiz çiğ köfte,9.1,9.3,9.1
+44,ankara,yenimahalle,asilzade pide & pizza,9.1,9.2,9.2
+45,ankara,altındağ,arzu pide & kebap & çorba,9.5,9.3,9.2
+46,ankara,mustafa kemal mah.,egem sandwich,9.2,9.2,9.1
+47,ankara,keçiören,çiçek pide & kebap,9.4,9.3,9.2
+48,ankara,elvankent,komagene etsiz çiğ köfte,9.6,9.7,9.8
+49,ankara,yıldız,boston express,9.6,9.5,9.3
+50,ankara,aşağı ayrancı,kuzgun ev yemekleri,9.6,9.4,9.3
+51,ankara,etimesgut,saka su,9.1,9.5,9.6
+52,ankara,batıkent,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.4,9.2
+53,ankara,yenimahalle,komagene etsiz çiğ köfte,9.1,9.4,9.3
+54,ankara,etimesgut,abart tavuk,10.0,10.0,10.0
+55,ankara,balgat,cevizli cafe,9.3,9.3,9.2
+56,ankara,konutkent 2,cuisine sandviç & burger & tatlı,9.4,9.6,9.6
+57,ankara,çankaya,meşhur adıyaman çiğ köftecisi ömer aybak,9.2,9.3,9.2
+58,ankara,çankaya,franco burger,9.4,9.3,9.1
+59,ankara,altındağ,yiğit su,9.6,10.0,10.0
+60,ankara,dikmen,komagene etsiz çiğ köfte,9.1,9.1,9.1
+61,ankara,hoşdere caddesi,ratu burger house,9.3,9.5,9.3
+62,ankara,emek,oburiks home made burger,9.4,9.3,9.1
+63,ankara,çankaya,çatı açık büfe,10.0,10.0,10.0
+64,ankara,çankaya,patlican pide & pizza,9.5,9.4,9.4
+65,ankara,keçiören,pilavcı kemo,9.5,9.4,9.1
+66,ankara,keçiören,komagene etsiz çiğ köfte,9.1,9.1,9.1
+67,ankara,kahramankazan,komagene etsiz çiğ köfte,9.6,9.6,9.5
+68,ankara,aşağı ayrancı,just cafe,9.6,9.4,9.3
+69,ankara,mamak,meşhur adıyaman çiğ köftecisi ahmet aybak,9.3,9.3,9.2
+70,ankara,çankaya,770 burger,9.5,9.4,9.2
+71,ankara,cebeci,harrbi,9.3,9.3,9.1
+72,ankara,mamak,afilli pizza,9.4,9.3,9.1
+73,ankara,etimesgut,meşhur agah efendi pilav üstü,9.3,9.4,9.2
+74,ankara,beştepe,komagene etsiz çiğ köfte,9.2,9.2,9.3
+75,ankara,tunalı,masabaşı kebapçısı,9.5,9.5,9.3
+76,ankara,etimesgut,tarihi ortaköy kumpircisi,9.2,9.1,9.1
+77,ankara,gölbaşı,çiğ köfteci ali baba,9.5,9.5,9.5
+78,ankara,çankaya,archers burger & pane,9.6,9.5,9.3
+79,ankara,yıldız,kuzey yıldızı samsun pide,9.3,9.4,9.1
+80,ankara,keçiören,komagene etsiz çiğ köfte,9.4,9.3,9.3
+81,ankara,etimesgut,park fırın cafe & bakery,9.7,9.6,9.4
+82,ankara,çankaya,kuğu bakery & bistro,9.4,9.2,9.1
+83,ankara,emek,pawn burger & hotdog,9.5,9.5,9.4
+84,ankara,çayyolu,dinç su,9.3,9.8,9.7
+85,ankara,çankaya,buzdağı su,9.6,9.8,9.7
+86,ankara,mamak,komagene etsiz çiğ köfte,9.8,9.5,10.0
+87,ankara,keklikpınarı,alo su market,9.5,10.0,10.0
+88,ankara,çankaya,buzdağı su,9.5,9.8,9.5
+89,ankara,aydınlıkevler,komagene etsiz çiğ köfte,9.2,9.1,9.2
+90,ankara,sokullu,annem arnavut & yaprak ciğerci,9.5,9.3,9.2
+91,ankara,çankaya,big belly,9.4,9.1,9.2
+92,ankara,çukurambar,devrez,9.4,9.3,9.2
+93,ankara,çankaya,tandır but,9.3,9.1,9.1
+94,ankara,emek,my bear burger,9.6,9.7,9.4
+95,ankara,çankaya,bahçeli tost evi,9.5,9.4,9.1
+96,ankara,çankaya,the juicy lucy burger,9.5,9.6,9.5
+97,ankara,yenimahalle,pizza time,9.4,9.4,9.3
+98,ankara,yenimahalle,black & yellow pizza,9.3,9.4,9.1
+99,ankara,çankaya,enjoy waffle,9.2,9.3,9.1
+100,ankara,g.o.p,meriç ev yemeği & güveç & pide,9.6,9.4,9.2
+101,ankara,yenimahalle,olta balık pişirme evi,9.5,9.3,9.2
+102,ankara,yenimahalle,tost 312,9.3,9.3,9.1
+103,ankara,hoşdere caddesi,subway,9.2,9.2,9.2
+104,ankara,çankaya,garaj 55 cafe & burger,9.2,9.4,9.1
+105,ankara,yıldız,özlem döner,9.1,9.1,9.1
+106,ankara,sincan,komagene etsiz çiğ köfte,9.4,9.2,9.2
+107,ankara,kavaklıdere,mutfak 7,9.7,9.4,9.2
+108,ankara,etimesgut,as pide & kebap,9.4,9.4,9.1
+109,ankara,mamak,komagene etsiz çiğ köfte,9.4,9.3,9.2
+110,ankara,sincan,ziyafet çiğ köfte,9.7,9.7,9.6
+111,ankara,bilkent 1,mezzaluna,9.2,9.3,9.3
+112,ankara,gazi mah.,that's burger,9.7,9.5,9.3
+113,ankara,mamak,bir kuzu kokoreç,9.7,9.6,9.4
+114,ankara,100. yıl,kavas usta'nın yeri ulusoy kebap,9.4,9.3,9.2
+115,ankara,polatlı,çorba dünyası,9.9,9.8,9.9
+116,ankara,etimesgut,food. homemade burger,9.9,9.8,9.1
+117,ankara,bilkent 1,lokal'71,9.3,9.4,9.3
+118,ankara,gölbaşı,adıyaman çiğ köftecisi bayram usta,9.5,9.3,9.1
+119,ankara,çiğdem mah.,meşhur adıyaman çiğ köftecisi ömer aybak,9.4,9.3,9.2
+120,ankara,çankaya,tadıtam çiğ köfte,9.6,9.5,9.3
+121,ankara,çankaya,zahter meze & ev yemekleri,10.0,10.0,10.0
+122,ankara,bahçelievler,bolulu hasan usta,9.3,9.4,9.2
+123,ankara,çankaya,aldo's pizza,9.4,9.4,9.1
+124,ankara,etimesgut,alsancak i̇şkembecisi köfte & kokoreç,9.6,9.5,9.4
+125,ankara,tunalı,pizza i̇l forno,9.2,9.2,9.1
+126,ankara,keçiören,ham ham pasta & cafe,9.4,9.3,9.2
+127,ankara,çankaya,balıkçı o. d. t. ü,9.4,9.2,9.1
+128,ankara,aşağı ayrancı,meşhur adıyaman çiğ köftecisi ömer aybak,9.1,9.1,9.1
+129,ankara,çankaya,burgerdinho,9.8,9.5,9.4
+130,ankara,yıldız,taze sandwiches & salads,9.5,9.5,9.4
+131,ankara,çankaya,kocatepe kahve evi,9.7,9.5,9.5
+132,ankara,turan güneş bulv.,kıtırım,9.4,9.4,9.3
+133,ankara,gölbaşı,halil usta pide & kebap & köfte,9.6,9.7,9.8
+134,ankara,çayyolu,franco burger,9.2,9.3,9.2
+135,ankara,yenimahalle,tezpişen sütlü tatlılar,9.4,9.6,9.5
+136,ankara,bilkent 3,mammaliga,9.7,9.7,9.5
+137,ankara,yıldız,arden şef gurme ev yemekleri,9.2,9.3,9.2
+138,ankara,etimesgut,cowboy's burger,9.1,9.2,9.2
+139,ankara,etimesgut,pürsu elite,10.0,10.0,9.8
+140,ankara,mamak,lacivert su,9.7,9.7,9.7
+141,ankara,bilkent 1,kardüzü su,9.9,9.8,9.7
+142,ankara,etimesgut,bi dünya sandviç,9.3,9.2,9.1
+143,ankara,çankaya,komagene etsiz çiğ köfte,9.5,9.4,9.3
+144,ankara,çankaya,katre,9.5,9.6,9.4
+145,ankara,sincan,efe murat pide & kebap,9.3,9.2,9.1
+146,ankara,çankaya,çatı açık büfe,9.5,9.8,9.5
+147,ankara,etimesgut,ca & st cajun & steak & burgerss,9.3,9.1,9.1
+148,ankara,çankaya,hacı sokakta,9.1,9.3,9.6
+149,ankara,keçiören,öz umut mersin tantuni,10.0,9.9,9.9
+150,ankara,çankaya,osito burger,9.7,9.6,9.1
+151,ankara,etimesgut,esta burger,9.6,9.5,9.4
+152,ankara,kavaklıdere,guangzhou wuyang,9.2,9.2,9.1
+153,ankara,çankaya,number'ger,9.1,9.1,9.1
+154,ankara,yenimahalle,tostbaa cafe,9.2,9.2,9.1
+155,ankara,çankaya,adalı mutfak,9.4,9.4,9.1
+156,ankara,çankaya,komagene etsiz çiğ köfte,9.4,9.5,9.3
+157,ankara,konutkent,ekti's chill & dine,9.5,9.4,9.3
+158,ankara,etlik,komagene etsiz çiğ köfte,9.1,9.1,9.2
+159,ankara,etimesgut,asma fırın kebap & lahmacun & pizza,9.3,9.4,9.1
+160,ankara,çankaya,meşhur adıyaman çiğ köftecisi ömer aybak,9.3,9.2,9.1
+161,ankara,mamak,komagene etsiz çiğ köfte,9.1,9.1,9.2
+162,ankara,çayyolu,hamdibey karadeniz pidesi,9.3,9.3,9.1
+163,ankara,turan güneş bulv.,1kaşar tost,9.4,9.4,9.3
+164,ankara,yenimahalle,çilek pasta & cafe & bistro,9.2,9.3,9.1
+165,ankara,keçiören,dolunay,9.3,9.3,9.2
+166,ankara,aşağı ayrancı,menendi pasta & cafe & bistro,9.5,9.4,9.2
+167,ankara,mamak,prof. tatlı & dondurma,9.4,9.5,9.3
+168,ankara,sincan,saka su,9.3,9.4,9.4
+169,ankara,keçiören,lia cafe,9.6,9.4,9.8
+170,ankara,altındağ,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.4,9.1
+171,ankara,çankaya,hüdaverdi pasta & bistro,9.2,9.3,9.1
+172,ankara,ümitköy,meşhur yıldızeller köftecisi,9.2,9.3,9.2
+173,ankara,başkent univ.,subway,9.2,9.1,9.2
+174,ankara,pursaklar,han çorba,9.7,9.4,9.7
+175,ankara,seyranbağları,cajun time,9.5,9.6,9.4
+176,ankara,çankaya,azzazz bir adana hikayesi,9.1,9.1,9.1
+177,ankara,beşevler,korykos mersin tantuni,9.3,9.3,9.2
+178,ankara,yenimahalle,meşhur adıyaman çiğ köftecisi ömer aybak,9.4,9.6,9.2
+179,ankara,dikmen,meşhur adıyaman çiğ köftecisi ahmet aybak,9.6,9.6,9.5
+180,ankara,batıkent,tavuk dünyası,9.3,9.3,9.2
+181,ankara,akyurt,akın pide,9.5,9.6,9.5
+182,ankara,cebeci,farm burger,9.3,9.3,9.3
+183,ankara,çankaya,kürek pide,9.1,9.4,9.1
+184,ankara,subayevleri,mavi tuna pasta & bistro,9.2,9.2,9.1
+185,ankara,çankaya,meşhur fazıl usta sokak lezzetcisi,9.4,9.1,9.1
+186,ankara,yukarı ayrancı,abant su,9.7,9.7,9.8
+187,ankara,etimesgut,pastannecim,9.2,9.4,9.3
+188,ankara,çayyolu,pizza today,9.4,9.3,9.3
+189,ankara,çayyolu,casa la pizza,9.4,9.1,9.1
+190,ankara,keçiören,meşhur adıyaman çiğ köftecisi samet usta,9.6,9.4,9.4
+191,ankara,etimesgut,komagene etsiz çiğ köfte,9.1,9.1,9.1
+192,ankara,çankaya,fuska su,9.3,9.7,9.7
+193,ankara,sincan,camuzoğlu künefe,9.8,9.3,9.2
+194,ankara,çankaya,gaziantep seç baklava,9.4,9.6,9.3
+195,ankara,etlik,meşhur adıyaman çiğ köftecisi,9.4,9.2,9.3
+196,ankara,etimesgut,gümüş doğal kaynak suyu,9.6,9.6,9.6
+197,ankara,küçükesat,antakya 326 dürüm,9.5,9.5,9.3
+198,ankara,mamak,janti tost,9.5,9.4,9.4
+199,ankara,çankaya,bilkent york street food company,9.4,9.5,9.2
+200,ankara,sincan,komagene etsiz çiğ köfte,9.1,9.2,9.1
+201,ankara,çankaya,timya karadeniz pide,9.1,9.1,9.1
+202,ankara,keçiören,dürümle,9.4,9.3,9.2
+203,ankara,etimesgut,bolu ala mangal keyf-i,9.5,9.8,9.5
+204,ankara,çankaya,bakermill burger,9.3,9.3,9.1
+205,ankara,çankaya,beşevler hamsi tavacısı,9.4,9.2,9.1
+206,ankara,çankaya,pınar su,9.9,9.8,9.9
+207,ankara,balgat,öyküm pide & kebap & ev yemekleri,9.4,9.7,9.5
+208,ankara,yenimahalle,boomerang pizza,9.6,9.4,9.2
+209,ankara,çankaya,look burger,9.7,9.7,9.5
+210,ankara,emek,saçmelii,9.1,9.3,9.2
+211,ankara,etimesgut,komagene etsiz çiğ köfte,9.6,9.6,9.5
+212,ankara,yenimahalle,abant mangal & dürüm evi,9.4,9.4,9.2
+213,ankara,gölbaşı,cosmos burger,9.1,9.3,9.2
+214,ankara,keçiören,kıtır,9.5,9.9,9.2
+215,ankara,çankaya,kordon kuzu kelle söğüş - söğüşçü reco,9.8,9.7,9.9
+216,ankara,çankaya,big baker burger & bakery,9.2,9.1,9.1
+217,ankara,çankaya,meşhur pideci i̇lhan usta 1,9.5,9.5,9.5
+218,ankara,yenimahalle,derin mantı,9.7,9.8,9.6
+219,ankara,çankaya,zeynel muhallebicisi,9.1,9.2,9.3
+220,ankara,çankaya,buzdağı su,9.5,9.7,9.7
+221,ankara,kırkkonaklar,saka su,9.3,9.3,9.3
+222,ankara,turan güneş bulv.,papa john's pizza,9.2,9.1,9.1
+223,ankara,etimesgut,pınar su,9.8,9.8,9.8
+224,ankara,etimesgut,saka su,9.3,9.4,9.6
+225,ankara,çankaya,tavuk dünyası,9.2,9.5,9.4
+226,ankara,sincan,komagene etsiz çiğ köfte,9.6,9.6,9.7
+227,ankara,çankaya,kraz,9.5,9.6,9.3
+228,ankara,çankaya,fess burger,9.5,9.3,9.2
+229,ankara,yenimahalle,nazende künefe,9.8,9.8,9.8
+230,ankara,batıkent,abone pide kebap,9.4,9.2,9.1
+231,ankara,söğütözü,köz biber ocakbaşı,9.3,9.3,9.1
+232,ankara,çankaya,oran aspava,9.1,9.1,9.1
+233,ankara,tunalı,aloha burger & kitchen,9.1,9.2,9.1
+234,ankara,çankaya,mash burger & fried chicken,9.6,9.4,9.2
+235,ankara,çankaya,abi 63 beyzade lahmacun,9.3,9.3,9.2
+236,ankara,çayyolu,tandır but,9.4,9.4,9.3
+237,ankara,gölbaşı,angry waffle,9.1,9.4,9.2
+238,ankara,keçiören,komagene etsiz çiğ köfte,9.3,9.3,9.3
+239,ankara,altındağ,tatlı evi,9.7,9.6,9.1
+240,ankara,sincan,merkez döner,10.0,10.0,10.0
+241,ankara,balgat,ham - buga kasap burger,9.8,9.8,9.7
+242,ankara,etimesgut,azze tantuni,9.4,9.4,9.4
+243,ankara,bilkent 1,pizza i̇l forno,9.3,9.1,9.1
+244,ankara,çankaya,white bear,9.4,9.2,9.1
+245,ankara,çayyolu,la vita pizzeria,9.5,9.4,9.2
+246,ankara,konutkent,burger & pizza cook,9.3,9.5,9.3
+247,ankara,etimesgut,deli dolu kumru & ayvalık,9.1,9.2,9.1
+248,ankara,mamak,saka su,9.4,9.5,9.6
+249,ankara,ayvalı,beyzade pide & lahmacun,9.3,9.1,9.1
+250,ankara,çayyolu,sb aspava,9.5,9.4,9.3
+251,ankara,yenimahalle,i̇pek yolu döner & pide & kebap,9.4,9.2,9.2
+252,ankara,çankaya,noodle pan,9.4,9.5,9.2
+253,ankara,çankaya,city wok,9.3,9.5,9.3
+254,ankara,çankaya,subway,9.4,9.5,9.2
+255,ankara,g.o.p,macarons d'antoinette,9.3,9.7,9.5
+256,ankara,sokullu,javsu,9.8,9.8,9.7
+257,ankara,yenimahalle,alish burger & cajun tavuk,9.2,9.2,9.1
+258,ankara,yenimahalle,tolga balık pişirme evi,9.7,9.5,9.5
+259,ankara,100. yıl,aynen pilav,9.4,9.4,9.2
+260,ankara,bilkent merkez kampüs,sofa,9.7,9.7,9.2
+261,ankara,çankaya,antakya tost evi,9.1,9.2,9.2
+262,ankara,etimesgut,saka su,9.7,9.8,9.8
+263,ankara,kurtuluş,alem kafe,9.5,9.3,9.1
+264,ankara,mamak,yasmin sofrası,9.3,9.2,9.2
+265,ankara,batıkent,cemre pide & kebap,9.5,9.4,9.3
+266,ankara,beştepe,zerdali,9.4,9.5,9.2
+267,ankara,çankaya,meşhur adıyaman çiğ köftecisi ahmet aybak,9.4,9.4,9.1
+268,ankara,çankaya,masabaşı kebapçısı,9.5,9.5,9.4
+269,ankara,yenimahalle,asım usta metrelik pideler,9.3,9.2,9.1
+270,ankara,sincan,komagene etsiz çiğ köfte,9.6,9.4,9.3
+271,ankara,çankaya,acıktım,9.3,9.3,9.3
+272,ankara,çankaya,burger make,9.3,9.6,9.3
+273,ankara,demetevler,başak kır pidesi,9.3,9.3,9.3
+274,ankara,etimesgut,pizza time,9.4,9.3,9.2
+275,ankara,çankaya,arquet burger & fries,9.5,9.6,9.3
+276,ankara,çankaya,mangalcı yılmaz,9.5,9.3,9.1
+277,ankara,aşağı ayrancı,hayat su,10.0,9.4,10.0
+278,ankara,sincan,adıyaman çiğköfte,9.4,9.3,9.5
+279,ankara,etimesgut,saraylı tatlıcızadem,9.2,9.4,9.1
+280,ankara,keçiören,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.5,9.3
+281,ankara,çankaya,müjgan,9.8,9.6,9.5
+282,ankara,etimesgut,adanus mangal & dürüm,9.5,9.3,9.1
+283,ankara,yıldız,aygır burger,9.2,9.3,9.2
+284,ankara,çankaya,mama's burger,9.6,9.6,9.5
+285,ankara,çankaya,tarihi adıyaman çiğ köftecisi,9.2,9.4,9.1
+286,ankara,yıldız,that’s burger,9.7,9.6,9.3
+287,ankara,çankaya,güllüoğlu,9.1,9.2,9.1
+288,ankara,mamak,full pizza,9.1,9.2,9.1
+289,ankara,seyranbağları,komagene etsiz çiğ köfte,9.1,9.4,9.2
+290,ankara,batıkent,nefis közde piliç,9.2,9.1,9.2
+291,ankara,çankaya,bay baget sandwich,9.3,9.1,9.1
+292,ankara,etimesgut,et burger,9.4,9.3,9.2
+293,ankara,yenimahalle,hangar pide & kebap,9.4,9.4,9.1
+294,ankara,çankaya,meşhur adıyaman çiğ köftecisi bayram usta,9.7,9.6,9.4
+295,ankara,yıldız,eylül döner,9.5,9.5,9.4
+296,ankara,demetevler,hamur house,9.5,9.6,9.3
+297,ankara,yukarı ayrancı,pınar su,9.5,9.9,9.9
+298,ankara,çankaya,zeliha boşnak mutfağı & böreği,9.5,9.5,9.5
+299,ankara,etimesgut,buzdağı su,10.0,10.0,10.0
+300,ankara,tandoğan,meşhur cengiz yıldırım aspava,9.6,9.3,9.4
+301,ankara,mustafa kemal mah.,etna pizzeria & restaurant,9.4,9.3,9.3
+302,ankara,keçiören,ayvaz su,9.1,9.5,9.6
+303,ankara,tunalı,pilavcı bekir usta,9.6,9.6,9.5
+304,ankara,çayyolu,meşhur adıyaman çiğ köftecisi ömer aybak,9.1,9.2,9.1
+305,ankara,keçiören,şakayık dürüm,9.2,9.1,9.1
+306,ankara,çankaya,the italian cut pizza,9.3,9.2,9.2
+307,ankara,etimesgut,osmanoğulları pide & kebap,9.4,9.3,9.1
+308,ankara,çankaya,komagene etsiz çiğ köfte,9.3,9.1,9.2
+309,ankara,çankaya,jimmy the burger,9.2,9.3,9.2
+310,ankara,batıkent,bakermill burgershop,9.6,9.3,9.2
+311,ankara,kocatepe,cafe kıraç,9.1,9.1,9.1
+312,ankara,eryaman evleri,çorba 7/24 & izgara,9.4,9.4,9.2
+313,ankara,çankaya,atom ayvalık & kumru,9.4,9.3,9.1
+314,ankara,yenimahalle,komagene etsiz çiğ köfte,9.1,9.1,9.1
+315,ankara,yenimahalle,space burger,9.5,9.5,9.3
+316,ankara,yenimahalle,baykuş fast food,9.7,9.5,9.4
+317,ankara,mamak,badempınarı su,9.6,9.7,9.5
+318,ankara,emek,meşhur gülçimen aspava,9.3,9.1,9.1
+319,ankara,100. yıl,javsu,9.9,9.9,9.9
+320,ankara,çankaya,antep şiş,9.5,9.3,9.2
+321,ankara,çankaya,kumpirevi,9.2,9.3,9.2
+322,ankara,emek,buzdağı su,9.4,9.7,9.8
+323,ankara,tunalı,bay baget sandwich,9.7,9.5,9.4
+324,ankara,etimesgut,antep ateşi pide & lahmacun & kebap,9.4,9.3,9.2
+325,ankara,balgat,meşhur adıyaman çiğ köftecisi ahmet aybak,9.6,9.4,9.1
+326,ankara,pursaklar,meşhur adıyaman çiğ köftecisi bayram usta,9.7,9.8,9.7
+327,ankara,yenimahalle,bosporus pizza & burger,9.7,9.7,9.9
+328,ankara,tunalı,red et,9.2,9.3,9.2
+329,ankara,yenimahalle,cajun corner,9.3,9.2,9.3
+330,ankara,keçiören,komagene etsiz çiğ köfte,9.3,9.3,9.1
+331,ankara,sincan,bi çorba ev yemekleri,9.4,9.3,9.2
+332,ankara,sincan,javsu,9.5,9.6,9.8
+333,ankara,altındağ,komagene etsiz çiğ köfte,9.6,9.5,9.3
+334,ankara,çankaya,çiğköfteci ömer usta,9.4,9.4,9.3
+335,ankara,çankaya,sweetish waffles & crepes,9.6,9.5,9.3
+336,ankara,emek,casa della pizza & burger,9.2,9.4,9.2
+337,ankara,çankaya,white point cajun,9.2,9.3,9.1
+338,ankara,çankaya,fuska su,9.3,9.7,9.7
+339,ankara,maltepe,komagene etsiz çiğ köfte,9.4,9.3,9.2
+340,ankara,etimesgut,capello pizza,9.4,9.3,9.4
+341,ankara,ümitköy,berilya pide & kebap,9.5,9.4,9.1
+342,ankara,keçiören,dolunay simit & pasta & cafe,9.6,9.4,9.4
+343,ankara,keçiören,merdane gözleme & mantı,9.2,9.3,9.2
+344,ankara,keçiören,hayat su,9.2,9.6,9.6
+345,ankara,çankaya,meşhur yılmaz burmalı kadayıf & künefe,9.2,9.1,9.1
+346,ankara,çankaya,somunarası,9.3,9.7,9.5
+347,ankara,çankaya,maşa döner & pide & kebap,9.5,9.5,9.1
+348,ankara,öveçler,komagene etsiz çiğ köfte,9.1,9.3,9.1
+349,ankara,yenimahalle,asilzade pide & pizza,9.1,9.2,9.2
+350,ankara,altındağ,arzu pide & kebap & çorba,9.5,9.3,9.2
+351,ankara,mustafa kemal mah.,egem sandwich,9.2,9.2,9.1
+352,ankara,keçiören,çiçek pide & kebap,9.4,9.3,9.2
+353,ankara,elvankent,komagene etsiz çiğ köfte,9.6,9.7,9.8
+354,ankara,yıldız,boston express,9.6,9.5,9.3
+355,ankara,aşağı ayrancı,kuzgun ev yemekleri,9.6,9.4,9.3
+356,ankara,etimesgut,saka su,9.1,9.5,9.6
+357,ankara,batıkent,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.4,9.2
+358,ankara,yenimahalle,komagene etsiz çiğ köfte,9.1,9.4,9.3
+359,ankara,etimesgut,abart tavuk,10.0,10.0,10.0
+360,ankara,balgat,cevizli cafe,9.3,9.3,9.2
+361,ankara,konutkent 2,cuisine sandviç & burger & tatlı,9.4,9.6,9.6
+362,ankara,çankaya,meşhur adıyaman çiğ köftecisi ömer aybak,9.2,9.3,9.2
+363,ankara,çankaya,franco burger,9.4,9.3,9.1
+364,ankara,altındağ,yiğit su,9.6,10.0,10.0
+365,ankara,dikmen,komagene etsiz çiğ köfte,9.1,9.1,9.1
+366,ankara,hoşdere caddesi,ratu burger house,9.3,9.5,9.3
+367,ankara,emek,oburiks home made burger,9.4,9.3,9.1
+368,ankara,çankaya,çatı açık büfe,10.0,10.0,10.0
+369,ankara,çankaya,patlican pide & pizza,9.5,9.4,9.4
+370,ankara,keçiören,pilavcı kemo,9.5,9.4,9.1
+371,ankara,keçiören,komagene etsiz çiğ köfte,9.1,9.1,9.1
+372,ankara,kahramankazan,komagene etsiz çiğ köfte,9.6,9.6,9.5
+373,ankara,aşağı ayrancı,just cafe,9.6,9.4,9.3
+374,ankara,mamak,meşhur adıyaman çiğ köftecisi ahmet aybak,9.3,9.3,9.2
+375,ankara,çankaya,770 burger,9.5,9.4,9.2
+376,ankara,cebeci,harrbi,9.3,9.3,9.1
+377,ankara,mamak,afilli pizza,9.4,9.3,9.1
+378,ankara,etimesgut,meşhur agah efendi pilav üstü,9.3,9.4,9.2
+379,ankara,beştepe,komagene etsiz çiğ köfte,9.2,9.2,9.3
+380,ankara,tunalı,masabaşı kebapçısı,9.5,9.5,9.3
+381,ankara,etimesgut,tarihi ortaköy kumpircisi,9.2,9.1,9.1
+382,ankara,gölbaşı,çiğ köfteci ali baba,9.5,9.5,9.5
+383,ankara,çankaya,archers burger & pane,9.6,9.5,9.3
+384,ankara,yıldız,kuzey yıldızı samsun pide,9.3,9.4,9.1
+385,ankara,keçiören,komagene etsiz çiğ köfte,9.4,9.3,9.3
+386,ankara,etimesgut,park fırın cafe & bakery,9.7,9.6,9.4
+387,ankara,çankaya,kuğu bakery & bistro,9.4,9.2,9.1
+388,ankara,emek,pawn burger & hotdog,9.5,9.5,9.4
+389,ankara,çayyolu,dinç su,9.3,9.8,9.7
+390,ankara,çankaya,buzdağı su,9.6,9.8,9.7
+391,ankara,mamak,komagene etsiz çiğ köfte,9.8,9.5,10.0
+392,ankara,keklikpınarı,alo su market,9.5,10.0,10.0
+393,ankara,çankaya,buzdağı su,9.5,9.8,9.5
+394,ankara,aydınlıkevler,komagene etsiz çiğ köfte,9.2,9.1,9.2
+395,ankara,sokullu,annem arnavut & yaprak ciğerci,9.5,9.3,9.2
+396,ankara,çankaya,big belly,9.4,9.1,9.2
+397,ankara,çukurambar,devrez,9.4,9.3,9.2
+398,ankara,çankaya,tandır but,9.3,9.1,9.1
+399,ankara,emek,my bear burger,9.6,9.7,9.4
+400,ankara,çankaya,bahçeli tost evi,9.5,9.4,9.1
+401,ankara,çankaya,the juicy lucy burger,9.5,9.6,9.5
+402,ankara,yenimahalle,pizza time,9.4,9.4,9.3
+403,ankara,yenimahalle,black & yellow pizza,9.3,9.4,9.1
+404,ankara,çankaya,enjoy waffle,9.2,9.3,9.1
+405,ankara,g.o.p,meriç ev yemeği & güveç & pide,9.6,9.4,9.2
+406,ankara,yenimahalle,olta balık pişirme evi,9.5,9.3,9.2
+407,ankara,yenimahalle,tost 312,9.3,9.3,9.1
+408,ankara,hoşdere caddesi,subway,9.2,9.2,9.2
+409,ankara,çankaya,garaj 55 cafe & burger,9.2,9.4,9.1
+410,ankara,yıldız,özlem döner,9.1,9.1,9.1
+411,ankara,sincan,komagene etsiz çiğ köfte,9.4,9.2,9.2
+412,ankara,kavaklıdere,mutfak 7,9.7,9.4,9.2
+413,ankara,etimesgut,as pide & kebap,9.4,9.4,9.1
+414,ankara,mamak,komagene etsiz çiğ köfte,9.4,9.3,9.2
+415,ankara,sincan,ziyafet çiğ köfte,9.7,9.7,9.6
+416,ankara,bilkent 1,mezzaluna,9.2,9.3,9.3
+417,ankara,gazi mah.,that's burger,9.7,9.5,9.3
+418,ankara,mamak,bir kuzu kokoreç,9.7,9.6,9.4
+419,ankara,100. yıl,kavas usta'nın yeri ulusoy kebap,9.4,9.3,9.2
+420,ankara,polatlı,çorba dünyası,9.9,9.8,9.9
+421,ankara,etimesgut,food. homemade burger,9.9,9.8,9.1
+422,ankara,bilkent 1,lokal'71,9.3,9.4,9.3
+423,ankara,gölbaşı,adıyaman çiğ köftecisi bayram usta,9.5,9.3,9.1
+424,ankara,çiğdem mah.,meşhur adıyaman çiğ köftecisi ömer aybak,9.4,9.3,9.2
+425,ankara,çankaya,tadıtam çiğ köfte,9.6,9.5,9.3
+426,ankara,çankaya,zahter meze & ev yemekleri,10.0,10.0,10.0
+427,ankara,bahçelievler,bolulu hasan usta,9.3,9.4,9.2
+428,ankara,çankaya,aldo's pizza,9.4,9.4,9.1
+429,ankara,etimesgut,alsancak i̇şkembecisi köfte & kokoreç,9.6,9.5,9.4
+430,ankara,tunalı,pizza i̇l forno,9.2,9.2,9.1
+431,ankara,keçiören,ham ham pasta & cafe,9.4,9.3,9.2
+432,ankara,çankaya,balıkçı o. d. t. ü,9.4,9.2,9.1
+433,ankara,aşağı ayrancı,meşhur adıyaman çiğ köftecisi ömer aybak,9.1,9.1,9.1
+434,ankara,çankaya,burgerdinho,9.8,9.5,9.4
+435,ankara,yıldız,taze sandwiches & salads,9.5,9.5,9.4
+436,ankara,çankaya,kocatepe kahve evi,9.7,9.5,9.5
+437,ankara,turan güneş bulv.,kıtırım,9.4,9.4,9.3
+438,ankara,gölbaşı,halil usta pide & kebap & köfte,9.6,9.7,9.8
+439,ankara,çayyolu,franco burger,9.2,9.3,9.2
+440,ankara,yenimahalle,tezpişen sütlü tatlılar,9.4,9.6,9.5
+441,ankara,bilkent 3,mammaliga,9.7,9.7,9.5
+442,ankara,yıldız,arden şef gurme ev yemekleri,9.2,9.3,9.2
+443,ankara,etimesgut,cowboy's burger,9.1,9.2,9.2
+444,ankara,etimesgut,pürsu elite,10.0,10.0,9.8
+445,ankara,mamak,lacivert su,9.7,9.7,9.7
+446,ankara,bilkent 1,kardüzü su,9.9,9.8,9.7
+447,ankara,etimesgut,bi dünya sandviç,9.3,9.2,9.1
+448,ankara,çankaya,komagene etsiz çiğ köfte,9.5,9.4,9.3
+449,ankara,çankaya,katre,9.5,9.6,9.4
+450,ankara,sincan,efe murat pide & kebap,9.3,9.2,9.1
+451,ankara,çankaya,çatı açık büfe,9.5,9.8,9.5
+452,ankara,etimesgut,ca & st cajun & steak & burgerss,9.3,9.1,9.1
+453,ankara,çankaya,hacı sokakta,9.1,9.3,9.6
+454,ankara,keçiören,öz umut mersin tantuni,10.0,9.9,9.9
+455,ankara,çankaya,osito burger,9.7,9.6,9.1
+456,ankara,etimesgut,esta burger,9.6,9.5,9.4
+457,ankara,kavaklıdere,guangzhou wuyang,9.2,9.2,9.1
+458,ankara,çankaya,number'ger,9.1,9.1,9.1
+459,ankara,yenimahalle,tostbaa cafe,9.2,9.2,9.1
+460,ankara,çankaya,adalı mutfak,9.4,9.4,9.1
+461,ankara,çankaya,komagene etsiz çiğ köfte,9.4,9.5,9.3
+462,ankara,konutkent,ekti's chill & dine,9.5,9.4,9.3
+463,ankara,etlik,komagene etsiz çiğ köfte,9.1,9.1,9.2
+464,ankara,etimesgut,asma fırın kebap & lahmacun & pizza,9.3,9.4,9.1
+465,ankara,çankaya,meşhur adıyaman çiğ köftecisi ömer aybak,9.3,9.2,9.1
+466,ankara,mamak,komagene etsiz çiğ köfte,9.1,9.1,9.2
+467,ankara,çayyolu,hamdibey karadeniz pidesi,9.3,9.3,9.1
+468,ankara,turan güneş bulv.,1kaşar tost,9.4,9.4,9.3
+469,ankara,yenimahalle,çilek pasta & cafe & bistro,9.2,9.3,9.1
+470,ankara,keçiören,dolunay,9.3,9.3,9.2
+471,ankara,aşağı ayrancı,menendi pasta & cafe & bistro,9.5,9.4,9.2
+472,ankara,mamak,prof. tatlı & dondurma,9.4,9.5,9.3
+473,ankara,sincan,saka su,9.3,9.4,9.4
+474,ankara,keçiören,lia cafe,9.6,9.4,9.8
+475,ankara,altındağ,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.4,9.1
+476,ankara,çankaya,hüdaverdi pasta & bistro,9.2,9.3,9.1
+477,ankara,ümitköy,meşhur yıldızeller köftecisi,9.2,9.3,9.2
+478,ankara,başkent univ.,subway,9.2,9.1,9.2
+479,ankara,pursaklar,han çorba,9.7,9.4,9.7
+480,ankara,seyranbağları,cajun time,9.5,9.6,9.4
+481,ankara,çankaya,azzazz bir adana hikayesi,9.1,9.1,9.1
+482,ankara,beşevler,korykos mersin tantuni,9.3,9.3,9.2
+483,ankara,yenimahalle,meşhur adıyaman çiğ köftecisi ömer aybak,9.4,9.6,9.2
+484,ankara,dikmen,meşhur adıyaman çiğ köftecisi ahmet aybak,9.6,9.6,9.5
+485,ankara,batıkent,tavuk dünyası,9.3,9.3,9.2
+486,ankara,akyurt,akın pide,9.5,9.6,9.5
+487,ankara,cebeci,farm burger,9.3,9.3,9.3
+488,ankara,çankaya,kürek pide,9.1,9.4,9.1
+489,ankara,subayevleri,mavi tuna pasta & bistro,9.2,9.2,9.1
+490,ankara,çankaya,meşhur fazıl usta sokak lezzetcisi,9.4,9.1,9.1
+491,ankara,yukarı ayrancı,abant su,9.7,9.7,9.8
+492,ankara,etimesgut,pastannecim,9.2,9.4,9.3
+493,ankara,çayyolu,pizza today,9.4,9.3,9.3
+494,ankara,çayyolu,casa la pizza,9.4,9.1,9.1
+495,ankara,keçiören,meşhur adıyaman çiğ köftecisi samet usta,9.6,9.4,9.4
+496,ankara,etimesgut,komagene etsiz çiğ köfte,9.1,9.1,9.1
+497,ankara,çankaya,fuska su,9.3,9.7,9.7
+498,ankara,sincan,camuzoğlu künefe,9.8,9.3,9.2
+499,ankara,çankaya,gaziantep seç baklava,9.4,9.6,9.3
+500,ankara,etlik,meşhur adıyaman çiğ köftecisi,9.4,9.2,9.3
+501,ankara,etimesgut,gümüş doğal kaynak suyu,9.6,9.6,9.6
+502,ankara,küçükesat,antakya 326 dürüm,9.5,9.5,9.3
+503,ankara,mamak,janti tost,9.5,9.4,9.4
+504,ankara,çankaya,bilkent york street food company,9.4,9.5,9.2
+505,ankara,sincan,komagene etsiz çiğ köfte,9.1,9.2,9.1
+506,ankara,çankaya,timya karadeniz pide,9.1,9.1,9.1
+507,ankara,keçiören,dürümle,9.4,9.3,9.2
+508,ankara,etimesgut,bolu ala mangal keyf-i,9.5,9.8,9.5
+509,ankara,çankaya,bakermill burger,9.3,9.3,9.1
+510,ankara,çankaya,beşevler hamsi tavacısı,9.4,9.2,9.1
+511,ankara,çankaya,pınar su,9.9,9.8,9.9
+512,ankara,balgat,öyküm pide & kebap & ev yemekleri,9.4,9.7,9.5
+513,ankara,yenimahalle,boomerang pizza,9.6,9.4,9.2
+514,ankara,çankaya,look burger,9.7,9.7,9.5
+515,ankara,emek,saçmelii,9.1,9.3,9.2
+516,ankara,etimesgut,komagene etsiz çiğ köfte,9.6,9.6,9.5
+517,ankara,yenimahalle,abant mangal & dürüm evi,9.4,9.4,9.2
+518,ankara,gölbaşı,cosmos burger,9.1,9.3,9.2
+519,ankara,keçiören,kıtır,9.5,9.9,9.2
+520,ankara,çankaya,kordon kuzu kelle söğüş - söğüşçü reco,9.8,9.7,9.9
+521,ankara,çankaya,big baker burger & bakery,9.2,9.1,9.1
+522,ankara,çankaya,meşhur pideci i̇lhan usta 1,9.5,9.5,9.5
+523,ankara,yenimahalle,derin mantı,9.7,9.8,9.6
+524,ankara,çankaya,zeynel muhallebicisi,9.1,9.2,9.3
+525,ankara,çankaya,buzdağı su,9.5,9.7,9.7
+526,ankara,kırkkonaklar,saka su,9.3,9.3,9.3
+527,ankara,turan güneş bulv.,papa john's pizza,9.2,9.1,9.1
+528,ankara,etimesgut,pınar su,9.8,9.8,9.8
+529,ankara,etimesgut,saka su,9.3,9.4,9.6
+530,ankara,çankaya,tavuk dünyası,9.2,9.5,9.4
+531,ankara,sincan,komagene etsiz çiğ köfte,9.6,9.6,9.7
+532,ankara,çankaya,kraz,9.5,9.6,9.3
+533,ankara,çankaya,fess burger,9.5,9.3,9.2
+534,ankara,yenimahalle,nazende künefe,9.8,9.8,9.8
+535,ankara,batıkent,abone pide kebap,9.4,9.2,9.1
+536,ankara,söğütözü,köz biber ocakbaşı,9.3,9.3,9.1
+537,ankara,çankaya,oran aspava,9.1,9.1,9.1
+538,ankara,tunalı,aloha burger & kitchen,9.1,9.2,9.1
+539,ankara,çankaya,mash burger & fried chicken,9.6,9.4,9.2
+540,ankara,çankaya,abi 63 beyzade lahmacun,9.3,9.3,9.2
+541,ankara,çayyolu,tandır but,9.4,9.4,9.3
+542,ankara,gölbaşı,angry waffle,9.1,9.4,9.2
+543,ankara,keçiören,komagene etsiz çiğ köfte,9.3,9.3,9.3
+544,ankara,altındağ,tatlı evi,9.7,9.6,9.1
+545,ankara,sincan,merkez döner,10.0,10.0,10.0
+546,ankara,balgat,ham - buga kasap burger,9.8,9.8,9.7
+547,ankara,etimesgut,azze tantuni,9.4,9.4,9.4
+548,ankara,bilkent 1,pizza i̇l forno,9.3,9.1,9.1
+549,ankara,çankaya,white bear,9.4,9.2,9.1
+550,ankara,çayyolu,la vita pizzeria,9.5,9.4,9.2
+551,ankara,konutkent,burger & pizza cook,9.3,9.5,9.3
+552,ankara,etimesgut,deli dolu kumru & ayvalık,9.1,9.2,9.1
+553,ankara,mamak,saka su,9.4,9.5,9.6
+554,ankara,ayvalı,beyzade pide & lahmacun,9.3,9.1,9.1
+555,ankara,çayyolu,sb aspava,9.5,9.4,9.3
+556,ankara,yenimahalle,i̇pek yolu döner & pide & kebap,9.4,9.2,9.2
+557,ankara,çankaya,noodle pan,9.4,9.5,9.2
+558,ankara,çankaya,city wok,9.3,9.5,9.3
+559,ankara,çankaya,subway,9.4,9.5,9.2
+560,ankara,g.o.p,macarons d'antoinette,9.3,9.7,9.5
+561,ankara,sokullu,javsu,9.8,9.8,9.7
+562,ankara,yenimahalle,alish burger & cajun tavuk,9.2,9.2,9.1
+563,ankara,yenimahalle,tolga balık pişirme evi,9.7,9.5,9.5
+564,ankara,100. yıl,aynen pilav,9.4,9.4,9.2
+565,ankara,bilkent merkez kampüs,sofa,9.7,9.7,9.2
+566,ankara,çankaya,antakya tost evi,9.1,9.2,9.2
+567,ankara,etimesgut,saka su,9.7,9.8,9.8
+568,ankara,kurtuluş,alem kafe,9.5,9.3,9.1
+569,ankara,mamak,yasmin sofrası,9.3,9.2,9.2
+570,ankara,batıkent,cemre pide & kebap,9.5,9.4,9.3
+571,ankara,beştepe,zerdali,9.4,9.5,9.2
+572,ankara,çankaya,meşhur adıyaman çiğ köftecisi ahmet aybak,9.4,9.4,9.1
+573,ankara,çankaya,masabaşı kebapçısı,9.5,9.5,9.4
+574,ankara,yenimahalle,asım usta metrelik pideler,9.3,9.2,9.1
+575,ankara,sincan,komagene etsiz çiğ köfte,9.6,9.4,9.3
+576,ankara,çankaya,acıktım,9.3,9.3,9.3
+577,ankara,çankaya,burger make,9.3,9.6,9.3
+578,ankara,demetevler,başak kır pidesi,9.3,9.3,9.3
+579,ankara,etimesgut,pizza time,9.4,9.3,9.2
+580,ankara,çankaya,arquet burger & fries,9.5,9.6,9.3
+581,ankara,çankaya,mangalcı yılmaz,9.5,9.3,9.1
+582,ankara,aşağı ayrancı,hayat su,10.0,9.4,10.0
+583,ankara,sincan,adıyaman çiğköfte,9.4,9.3,9.5
+584,ankara,etimesgut,saraylı tatlıcızadem,9.2,9.4,9.1
+585,ankara,keçiören,meşhur adıyaman çiğ köftecisi ömer aybak,9.5,9.5,9.3
+586,ankara,çankaya,müjgan,9.8,9.6,9.5
+587,ankara,etimesgut,adanus mangal & dürüm,9.5,9.3,9.1
+588,ankara,yıldız,aygır burger,9.2,9.3,9.2
+589,ankara,çankaya,mama's burger,9.6,9.6,9.5
+590,ankara,çankaya,tarihi adıyaman çiğ köftecisi,9.2,9.4,9.1
+591,ankara,yıldız,that’s burger,9.7,9.6,9.3
+592,ankara,çankaya,güllüoğlu,9.1,9.2,9.1
+593,ankara,mamak,full pizza,9.1,9.2,9.1
+594,ankara,seyranbağları,komagene etsiz çiğ köfte,9.1,9.4,9.2
+595,ankara,batıkent,nefis közde piliç,9.2,9.1,9.2
+596,ankara,çankaya,bay baget sandwich,9.3,9.1,9.1
+597,ankara,etimesgut,et burger,9.4,9.3,9.2
+598,ankara,yenimahalle,hangar pide & kebap,9.4,9.4,9.1
+599,ankara,çankaya,meşhur adıyaman çiğ köftecisi bayram usta,9.7,9.6,9.4
+600,ankara,yıldız,eylül döner,9.5,9.5,9.4
+601,ankara,demetevler,hamur house,9.5,9.6,9.3
+602,ankara,yukarı ayrancı,pınar su,9.5,9.9,9.9
+603,ankara,çankaya,zeliha boşnak mutfağı & böreği,9.5,9.5,9.5
+604,ankara,etimesgut,buzdağı su,10.0,10.0,10.0
+605,ankara,tandoğan,meşhur cengiz yıldırım aspava,9.6,9.3,9.4
+606,ankara,mustafa kemal mah.,etna pizzeria & restaurant,9.4,9.3,9.3
+607,ankara,keçiören,ayvaz su,9.1,9.5,9.6
+608,ankara,tunalı,pilavcı bekir usta,9.6,9.6,9.5
+609,ankara,çayyolu,meşhur adıyaman çiğ köftecisi ömer aybak,9.1,9.2,9.1
